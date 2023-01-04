@@ -4,6 +4,14 @@ For this project I used Convolutional Neural Networks (CNN), Support Vector Mach
 which of the six recyclable categories (glass, garbage, plastic, paper, metal and cardboard) a particular object belongs to. 
 I eventually evaluated such models and compared the result obtained.
 
-## Flowchart of the work:
+## Flowchart of the work
 
 ![image](https://user-images.githubusercontent.com/77294126/210639966-3f32f011-b7d7-44bd-8680-a5e4accc20b6.png)
+
+## Results obtained
+
+| Model  | Accuracy |
+| ------------- | ------------- |
+| CNN  | 70%  |
+| SVM  | 62%  |
+| CNN + SVM  | 66%  |
